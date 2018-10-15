@@ -1,0 +1,18 @@
+.nav{
+  margin: 0px;
+  padding: 0%;
+}
+@media (min-width: 576px){
+  .jumbotron {
+    padding: 1% 0%;
+}
+.jumbotron {
+  background-color: rgb(182, 182, 201);
+}
+}
+.nav-link:hover{
+  color: rgb(15, 133, 50);
+}
+.nav-link{
+  color: rgb(75, 84, 94);
+}
